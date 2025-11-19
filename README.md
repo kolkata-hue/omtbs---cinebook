@@ -1,1 +1,1 @@
-(https://online-movie-ticketing-system.tiiny.site/)
+(https://online-movie-ticketing-systm.tiiny.site/)
